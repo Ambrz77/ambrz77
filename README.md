@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+Im An undergraduate student pursuing a Bachelor of Science (B.Sc.) in Computer Engineering at Shahid Beheshti University. Interested in Mobile Application Programming, UI/UX Design & Computer Science.
+<br>
+Enjoy learning more :)
 <!--
 **ambrz77/ambrz77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
